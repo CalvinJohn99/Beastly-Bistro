@@ -8,6 +8,7 @@ To get started with the game’s lore and storyline, start reading [here](https:
 ## **Getting Started**
 
 To get started with the game, please follow the outline provided [here](https://github.com/UQcsse3200/2024-studio-3/wiki/Getting-Started). Once this setup is complete, you will be able to play and edit the game.
+Just a quick heads up, use `./gradlew run` to run the game!
 
 Find the complete game walkthrough guide here. (should have a walkthrough → example of how the game is played)
 
