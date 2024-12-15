@@ -29,6 +29,7 @@ hs_err_pid*
 # IDEs and editors #
 ## IntelliJ IDEA ##
 .idea/
+.vscode/
 *.iws
 *.iml
 *.ipr
